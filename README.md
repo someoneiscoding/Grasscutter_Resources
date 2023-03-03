@@ -21,3 +21,5 @@
  - [lilmayofuksu](https://github.com/lilmayofuksu/animepython)
  - [Melledy](https://github.com/Melledy)
  - [GrownNed](https://github.com/GrownNed/)
+ 
+ https://github.com/TomyJan/GCResource/tree/3500-Full
